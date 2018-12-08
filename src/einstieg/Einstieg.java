@@ -1,3 +1,4 @@
+package einstieg;
 import java.util.Scanner;
 
 public class Einstieg {
