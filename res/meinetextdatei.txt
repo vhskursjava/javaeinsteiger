@@ -1,0 +1,3 @@
+Treffen sich zwei Jäger...
+Ich bin eine Zeile in einer Textdatei!
+Ich bin die letzte Zeile!
